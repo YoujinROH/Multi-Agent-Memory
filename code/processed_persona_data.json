@@ -1,0 +1,122 @@
+[
+    {
+        "Age": "54  ",
+        "Gender": "Female  ",
+        "Existing Medical Conditions": "Breast cancer, depressed mood, insomnia, back pain  ",
+        "Symptoms": "Difficulties sleeping, worsened back pain  ",
+        "Experience": [
+            "I was diagnosed with breast cancer during a routine examination",
+            "I experienced a depressed mood and insomnia",
+            "my back pain got worse impacting my sleep",
+            "I started pain control and physical therapy",
+            "I wanted to stop taking sleep medication"
+        ]
+    },
+    {
+        "Age": "52  ",
+        "Gender": "Male  ",
+        "Existing Medical Conditions": "Sleep disorders  ",
+        "Symptoms": "Anxiety, heart palpitations, dizziness  ",
+        "Experience": [
+            "My mother passed away",
+            "I started experiencing anxiety and heart palpitations",
+            "I took sleep medication with no improvement",
+            "I participated in cognitive-behavioral therapy for insomnia",
+            "the therapy was not very effective]"
+        ]
+    },
+    {
+        "Age": "64  ",
+        "Gender": "Female  ",
+        "Existing Medical Conditions": "Anxiety  ",
+        "Symptoms": "Insomnia  ",
+        "Experience": [
+            "Conflicts with daughter-in-law started six years ago",
+            "Insomnia started after son's marriage",
+            "Arguments with daughter-in-law exacerbated insomnia",
+            "Reconciliation efforts with daughter-in-law",
+            "Started taking sleep medication for improvement"
+        ]
+    },
+    {
+        "Age": "46",
+        "Gender": "Male",
+        "Existing Medical Conditions": "Anxiety disorder, posttraumatic stress disorder (PTSD)",
+        "Symptoms": "Nervousness, worsening physical symptoms such as headaches under stress, anxiety, hyperarousal, severe nightmares",
+        "Experience": [
+            "Conflicts with wife and work",
+            "Diagnosed with anxiety disorder",
+            "Automobile accident",
+            "Symptoms amplified post-accident",
+            "Experiencing symptoms consistent with PTSD"
+        ]
+    },
+    {
+        "Age": "59  ",
+        "Gender": "Female  ",
+        "Existing Medical Conditions": "Depression, Insomnia  ",
+        "Symptoms": "Insomnia, Stress  ",
+        "Experience": [
+            "My brother-in-law failed to return money that I had lent him",
+            "I experienced depression and insomnia",
+            "I began to care for my mother-in-law with dementia",
+            "the additional stress exacerbated my insomnia",
+            "I suffered from insomnia almost every night despite taking sleep medication"
+        ]
+    },
+    {
+        "Age": "45",
+        "Gender": "Male",
+        "Existing Medical Conditions": "None specified",
+        "Symptoms": "Difficulty falling asleep and maintaining sleep, takes over an hour to fall asleep, occasional leg jerking during sleep (not self-aware), inability to tolerate medication side effects (drowsiness, dry mouth)",
+        "Experience": [
+            "Sister passed away 2 months ago",
+            "Had no previous sleep problems",
+            "Tried medication but couldn't tolerate side effects",
+            "Increased caffeine and alcohol consumption to aid sleep",
+            "Wife noticed leg jerks during sleep"
+        ]
+    },
+    {
+        "Age": "40  ",
+        "Gender": "Female  ",
+        "Existing Medical Conditions": "None reported  ",
+        "Symptoms": "Difficulty falling asleep, frequent awakenings at night, daytime fatigue, inability to concentrate, tension and worry at bedtime  ",
+        "Experience": [
+            "I vaguely recall being involved in a stressful family property dispute just prior to the onset of my sleep difficulty",
+            "Sleep has become a real frustration",
+            "As bedtime approaches",
+            "I become very tense and worry about the prospect of another sleepless night",
+            "Every night",
+            "when I lie in bed",
+            "I have to try very hard to sleep",
+            "I keep watching the clock"
+        ]
+    },
+    {
+        "Age": "62  ",
+        "Gender": "Female  ",
+        "Existing Medical Conditions": "None specified  ",
+        "Symptoms": "Insomnia, anxiety, tremor, irritability, nightmares, hyperacusis, tinnitus, poor memory, tendency to falls  ",
+        "Experience": [
+            "The death of my husband led to the prescription of diazepam",
+            "My need for diazepam has increased over time",
+            "Attempts to discontinue diazepam resulted in severe withdrawal symptoms",
+            "I have adjusted my daily activities while on medication but experience poor memory",
+            "A recent fall prompted advice to stop diazepam due to poor memory and falls"
+        ]
+    },
+    {
+        "Age": "68  ",
+        "Gender": "male  ",
+        "Existing Medical Conditions": "Parkinson’s disease, insomnia  ",
+        "Symptoms": "difficulty falling asleep, frequent nocturnal awakenings, non-refreshing sleep, daytime fatigue, spontaneous dozing, depression, marked dystonia in trunk and upper limbs, confusion at night, sleep talking  ",
+        "Experience": [
+            "I have difficulty falling asleep",
+            "I experience frequent nocturnal awakenings",
+            "I feel my sleep is non-refreshing",
+            "I suffer from daytime fatigue and spontaneous dozing",
+            "I felt increased confusion and talk in my sleep after my medication dosage was increased]"
+        ]
+    }
+]
