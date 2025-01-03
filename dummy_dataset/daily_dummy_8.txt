@@ -1,0 +1,24 @@
+00:00:00. I woke up and tried to get back to sleep
+01:00:00. I am sleeping
+02:00:00. I woke up and tried to get back to sleep
+03:00:00. I took medication and tried to get back to sleep
+04:00:00. I am sleeping
+05:00:00. I woke up and tried to get back to sleep
+06:00:00. I am sleeping
+07:00:00. I woke up
+08:00:00. I ate breakfast
+09:00:00. I took care of the house garden
+10:00:00. I cleaned my car
+11:00:00. I watched TV
+12:00:00. I ate lunch
+13:00:00. I tried to read book but I fell asleep
+14:00:00. I woke up and had a cup of coffee
+15:00:00. I chatted with my wife
+16:00:00. I read book
+17:00:00. I fall asleep
+18:00:00. I had a dinner
+19:00:00. I watched movie on TV
+20:00:00. I watched movie on TV
+21:00:00. I took a shower
+22:00:00. I chatted with my wife
+23:00:00. I am sleeping

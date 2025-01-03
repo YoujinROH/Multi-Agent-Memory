@@ -1,0 +1,24 @@
+00:00:00. I am sleeping
+01:00:00. I am sleeping
+02:00:00. I am sleeping
+03:00:00. I woke up from sleep due to back pain
+04:00:00. I tried to go back to sleep, but I couldn't fall asleep
+05:00:00. I tried to go back to sleep, but I couldn't fall asleep
+06:00:00. I am sleeping
+07:00:00. I woke up
+08:00:00. I ate breakfast
+09:00:00. I watched TV
+10:00:00. I went to hospital for the pain control and physical therapy
+11:00:00. I went back to my house
+12:00:00. I ate lunch
+13:00:00. I watched TV
+14:00:00. I tried to take a nap
+15:00:00. I was lying in bed without sleeping
+16:00:00. I was lying in bed without sleeping
+17:00:00. I went market to prepare for the dinner
+18:00:00. I had a dinner
+19:00:00. I was lying in bed watching smartphone
+20:00:00. I was lying in bed watching smartphone
+21:00:00. I took a shower
+22:00:00. I've call to my friend but she did not respond
+23:00:00. I was trying to sleep but I was not able to fall into sleep due to back pain
