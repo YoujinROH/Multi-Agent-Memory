@@ -1,0 +1,386 @@
+[
+    {
+        "timestamp": "2025.01.06.00.00.00",
+        "activity": "I am sleeping"
+    },
+    {
+        "timestamp": "2025.01.06.00.15.00",
+        "activity": "I am sleeping"
+    },
+    {
+        "timestamp": "2025.01.06.00.30.00",
+        "activity": "I am sleeping"
+    },
+    {
+        "timestamp": "2025.01.06.00.45.00",
+        "activity": "I am sleeping"
+    },
+    {
+        "timestamp": "2025.01.06.01.00.00",
+        "activity": "I am sleeping"
+    },
+    {
+        "timestamp": "2025.01.06.01.15.00",
+        "activity": "I am sleeping"
+    },
+    {
+        "timestamp": "2025.01.06.01.30.00",
+        "activity": "I am sleeping"
+    },
+    {
+        "timestamp": "2025.01.06.01.45.00",
+        "activity": "I am sleeping"
+    },
+    {
+        "timestamp": "2025.01.06.02.00.00",
+        "activity": "I am sleeping"
+    },
+    {
+        "timestamp": "2025.01.06.02.15.00",
+        "activity": "I am sleeping"
+    },
+    {
+        "timestamp": "2025.01.06.02.30.00",
+        "activity": "I am sleeping"
+    },
+    {
+        "timestamp": "2025.01.06.02.45.00",
+        "activity": "I am sleeping"
+    },
+    {
+        "timestamp": "2025.01.06.03.00.00",
+        "activity": "I woke up from sleep due to back pain"
+    },
+    {
+        "timestamp": "2025.01.06.03.15.00",
+        "activity": "I tried massaging my back for relief"
+    },
+    {
+        "timestamp": "2025.01.06.03.30.00",
+        "activity": "I tried stretching to relieve the back pain"
+    },
+    {
+        "timestamp": "2025.01.06.03.45.00",
+        "activity": "I sat on the edge of the bed breathing deeply"
+    },
+    {
+        "timestamp": "2025.01.06.04.00.00",
+        "activity": "I tried to go back to sleep, but I couldn't fall asleep"
+    },
+    {
+        "timestamp": "2025.01.06.04.15.00",
+        "activity": "I read an article online"
+    },
+    {
+        "timestamp": "2025.01.06.04.30.00",
+        "activity": "I stayed in bed trying relaxation techniques"
+    },
+    {
+        "timestamp": "2025.01.06.04.45.00",
+        "activity": "I focused on listening to soothing sounds"
+    },
+    {
+        "timestamp": "2025.01.06.05.00.00",
+        "activity": "I tried to go back to sleep, but I couldn't fall asleep"
+    },
+    {
+        "timestamp": "2025.01.06.05.15.00",
+        "activity": "I mentally planned the day ahead"
+    },
+    {
+        "timestamp": "2025.01.06.05.30.00",
+        "activity": "I got up and walked around the house"
+    },
+    {
+        "timestamp": "2025.01.06.05.45.00",
+        "activity": "I did gentle yoga movements"
+    },
+    {
+        "timestamp": "2025.01.06.06.00.00",
+        "activity": "I am sleeping"
+    },
+    {
+        "timestamp": "2025.01.06.06.15.00",
+        "activity": "I am sleeping"
+    },
+    {
+        "timestamp": "2025.01.06.06.30.00",
+        "activity": "I am sleeping"
+    },
+    {
+        "timestamp": "2025.01.06.06.45.00",
+        "activity": "I am sleeping"
+    },
+    {
+        "timestamp": "2025.01.06.07.00.00",
+        "activity": "I woke up"
+    },
+    {
+        "timestamp": "2025.01.06.07.15.00",
+        "activity": "I brushed my teeth"
+    },
+    {
+        "timestamp": "2025.01.06.07.30.00",
+        "activity": "I did a few morning stretches"
+    },
+    {
+        "timestamp": "2025.01.06.07.45.00",
+        "activity": "I freshened up with a quick shower"
+    },
+    {
+        "timestamp": "2025.01.06.08.00.00",
+        "activity": "I ate breakfast"
+    },
+    {
+        "timestamp": "2025.01.06.08.15.00",
+        "activity": "I prepared a cup of coffee"
+    },
+    {
+        "timestamp": "2025.01.06.08.30.00",
+        "activity": "I read the news online"
+    },
+    {
+        "timestamp": "2025.01.06.08.45.00",
+        "activity": "I responded to some emails"
+    },
+    {
+        "timestamp": "2025.01.06.09.00.00",
+        "activity": "I watched TV"
+    },
+    {
+        "timestamp": "2025.01.06.09.15.00",
+        "activity": "I folded some laundry"
+    },
+    {
+        "timestamp": "2025.01.06.09.30.00",
+        "activity": "I prepared to head to the hospital"
+    },
+    {
+        "timestamp": "2025.01.06.09.45.00",
+        "activity": "I checked traffic updates before heading out"
+    },
+    {
+        "timestamp": "2025.01.06.10.00.00",
+        "activity": "I went to hospital for the pain control and physical therapy"
+    },
+    {
+        "timestamp": "2025.01.06.10.15.00",
+        "activity": "I filled out some forms at the hospital"
+    },
+    {
+        "timestamp": "2025.01.06.10.30.00",
+        "activity": "I was receiving therapy at the hospital"
+    },
+    {
+        "timestamp": "2025.01.06.10.45.00",
+        "activity": "I talked to the therapist about my progress"
+    },
+    {
+        "timestamp": "2025.01.06.11.00.00",
+        "activity": "I went back to my house"
+    },
+    {
+        "timestamp": "2025.01.06.11.15.00",
+        "activity": "I prepared a glass of water"
+    },
+    {
+        "timestamp": "2025.01.06.11.30.00",
+        "activity": "I rested for a while at home"
+    },
+    {
+        "timestamp": "2025.01.06.11.45.00",
+        "activity": "I did a few leg exercises"
+    },
+    {
+        "timestamp": "2025.01.06.12.00.00",
+        "activity": "I ate lunch"
+    },
+    {
+        "timestamp": "2025.01.06.12.15.00",
+        "activity": "I brewed herbal tea"
+    },
+    {
+        "timestamp": "2025.01.06.12.30.00",
+        "activity": "I tidied up the kitchen"
+    },
+    {
+        "timestamp": "2025.01.06.12.45.00",
+        "activity": "I planned my dinner menu"
+    },
+    {
+        "timestamp": "2025.01.06.13.00.00",
+        "activity": "I watched TV"
+    },
+    {
+        "timestamp": "2025.01.06.13.15.00",
+        "activity": "I organized my desk"
+    },
+    {
+        "timestamp": "2025.01.06.13.30.00",
+        "activity": "I made some tea and relaxed"
+    },
+    {
+        "timestamp": "2025.01.06.13.45.00",
+        "activity": "I flipped through an old magazine"
+    },
+    {
+        "timestamp": "2025.01.06.14.00.00",
+        "activity": "I tried to take a nap"
+    },
+    {
+        "timestamp": "2025.01.06.14.15.00",
+        "activity": "I adjusted my pillow for comfort"
+    },
+    {
+        "timestamp": "2025.01.06.14.30.00",
+        "activity": "I listened to calming music"
+    },
+    {
+        "timestamp": "2025.01.06.14.45.00",
+        "activity": "I visualized a peaceful environment"
+    },
+    {
+        "timestamp": "2025.01.06.15.00.00",
+        "activity": "I was lying in bed without sleeping"
+    },
+    {
+        "timestamp": "2025.01.06.15.15.00",
+        "activity": "I listened to the ambient nature sounds"
+    },
+    {
+        "timestamp": "2025.01.06.15.30.00",
+        "activity": "I did deep breathing exercises"
+    },
+    {
+        "timestamp": "2025.01.06.15.45.00",
+        "activity": "I cozied up with a light blanket"
+    },
+    {
+        "timestamp": "2025.01.06.16.00.00",
+        "activity": "I was lying in bed without sleeping"
+    },
+    {
+        "timestamp": "2025.01.06.16.15.00",
+        "activity": "I contemplated a positive affirmation"
+    },
+    {
+        "timestamp": "2025.01.06.16.30.00",
+        "activity": "I wrote in my journal"
+    },
+    {
+        "timestamp": "2025.01.06.16.45.00",
+        "activity": "I brainstormed future activities"
+    },
+    {
+        "timestamp": "2025.01.06.17.00.00",
+        "activity": "I went to the market to prepare for the dinner"
+    },
+    {
+        "timestamp": "2025.01.06.17.15.00",
+        "activity": "I compared product prices"
+    },
+    {
+        "timestamp": "2025.01.06.17.30.00",
+        "activity": "I purchased some groceries"
+    },
+    {
+        "timestamp": "2025.01.06.17.45.00",
+        "activity": "I checked my shopping list to ensure everything was bought"
+    },
+    {
+        "timestamp": "2025.01.06.18.00.00",
+        "activity": "I had dinner"
+    },
+    {
+        "timestamp": "2025.01.06.18.15.00",
+        "activity": "I washed the dishes"
+    },
+    {
+        "timestamp": "2025.01.06.18.30.00",
+        "activity": "I cleaned up after dinner"
+    },
+    {
+        "timestamp": "2025.01.06.18.45.00",
+        "activity": "I dried and stored the dishes"
+    },
+    {
+        "timestamp": "2025.01.06.19.00.00",
+        "activity": "I was lying in bed watching smartphone"
+    },
+    {
+        "timestamp": "2025.01.06.19.15.00",
+        "activity": "I browsed new recipes online"
+    },
+    {
+        "timestamp": "2025.01.06.19.30.00",
+        "activity": "I checked social media"
+    },
+    {
+        "timestamp": "2025.01.06.19.45.00",
+        "activity": "I texted a friend"
+    },
+    {
+        "timestamp": "2025.01.06.20.00.00",
+        "activity": "I was lying in bed watching smartphone"
+    },
+    {
+        "timestamp": "2025.01.06.20.15.00",
+        "activity": "I watched a short video clip"
+    },
+    {
+        "timestamp": "2025.01.06.20.30.00",
+        "activity": "I set my smartphone aside and relaxed"
+    },
+    {
+        "timestamp": "2025.01.06.20.45.00",
+        "activity": "I cleaned my phone screen"
+    },
+    {
+        "timestamp": "2025.01.06.21.00.00",
+        "activity": "I took a shower"
+    },
+    {
+        "timestamp": "2025.01.06.21.15.00",
+        "activity": "I put on comfortable pajamas"
+    },
+    {
+        "timestamp": "2025.01.06.21.30.00",
+        "activity": "I applied lotion to my back for relaxation"
+    },
+    {
+        "timestamp": "2025.01.06.21.45.00",
+        "activity": "I combed my hair"
+    },
+    {
+        "timestamp": "2025.01.06.22.00.00",
+        "activity": "I called my friend, but she did not respond"
+    },
+    {
+        "timestamp": "2025.01.06.22.15.00",
+        "activity": "I gently massaged my scalp"
+    },
+    {
+        "timestamp": "2025.01.06.22.30.00",
+        "activity": "I listened to an audiobook"
+    },
+    {
+        "timestamp": "2025.01.06.22.45.00",
+        "activity": "I marked a chapter in the audiobook"
+    },
+    {
+        "timestamp": "2025.01.06.23.00.00",
+        "activity": "I was trying to sleep, but I was not able to fall asleep due to back pain"
+    },
+    {
+        "timestamp": "2025.01.06.23.15.00",
+        "activity": "I changed my sleeping position"
+    },
+    {
+        "timestamp": "2025.01.06.23.30.00",
+        "activity": "I got up and gently stretched my back"
+    },
+    {
+        "timestamp": "2025.01.06.23.45.00",
+        "activity": "I prepared a hot water bottle for my back"
+    }
+]

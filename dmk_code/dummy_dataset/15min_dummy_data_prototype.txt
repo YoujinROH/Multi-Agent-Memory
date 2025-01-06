@@ -1,0 +1,96 @@
+00:00:00. I am sleeping  
+00:15:00. I am sleeping  
+00:30:00. I am sleeping  
+00:45:00. I am sleeping  
+01:00:00. I am sleeping  
+01:15:00. I am sleeping  
+01:30:00. I am sleeping  
+01:45:00. I am sleeping  
+02:00:00. I am sleeping  
+02:15:00. I am sleeping  
+02:30:00. I am sleeping  
+02:45:00. I am sleeping  
+03:00:00. I woke up from sleep due to back pain  
+03:15:00. I tried to stretch my back to relieve pain  
+03:30:00. I moved around to ease the back pain  
+03:45:00. I tried back relaxation techniques  
+04:00:00. I tried to go back to sleep, but I couldn't fall asleep  
+04:15:00. I focused on deep breathing  
+04:30:00. I changed my sleeping position  
+04:45:00. I read a book hoping to get sleepy  
+05:00:00. I tried to go back to sleep, but I couldn't fall asleep  
+05:15:00. I counted sheep in an attempt to sleep  
+05:30:00. I listened to calming music  
+05:45:00. I tried meditation to relax  
+06:00:00. I am sleeping  
+06:15:00. I am sleeping  
+06:30:00. I am sleeping  
+06:45:00. I am sleeping  
+07:00:00. I woke up  
+07:15:00. I washed my face and brushed my teeth  
+07:30:00. I prepared breakfast  
+07:45:00. I wrote in my journal  
+08:00:00. I ate breakfast  
+08:15:00. I cleaned up the breakfast dishes  
+08:30:00. I scrolled through my social media  
+08:45:00. I checked my emails  
+09:00:00. I watched TV  
+09:15:00. I did light exercises  
+09:30:00. I did some stretches  
+09:45:00. I prepared to go out  
+10:00:00. I went to hospital for the pain control and physical therapy  
+10:15:00. I was at the hospital for my appointment  
+10:30:00. I was on the physical therapy session  
+10:45:00. I consulted with the medical staff  
+11:00:00. I went back to my house  
+11:15:00. I had a light snack  
+11:30:00. I listened to soothing music  
+11:45:00. I arranged my medications  
+12:00:00. I ate lunch  
+12:15:00. I cleaned up after lunch  
+12:30:00. I drank some tea  
+12:45:00. I read the news online  
+13:00:00. I watched TV  
+13:15:00. I texted friends  
+13:30:00. I made a list of things to do  
+13:45:00. I did some light stretches  
+14:00:00. I tried to take a nap  
+14:15:00. I was lying quietly  
+14:30:00. I closed my eyes and relaxed  
+14:45:00. I tried deep breathing  
+15:00:00. I was lying in bed without sleeping  
+15:15:00. I listened to a podcast  
+15:30:00. I thought about dinner plans  
+15:45:00. I did gentle back exercises  
+16:00:00. I was lying in bed without sleeping  
+16:15:00. I got up to drink some water  
+16:30:00. I did a brief walk inside the house  
+16:45:00. I read a magazine  
+17:00:00. I went market to prepare for the dinner  
+17:15:00. I was shopping for ingredients  
+17:30:00. I compared prices for the items  
+17:45:00. I checked out at the register  
+18:00:00. I had a dinner  
+18:15:00. I cleaned up after dinner  
+18:30:00. I planned a grocery list for next week  
+18:45:00. I did some gentle stretches  
+19:00:00. I was lying in bed watching smartphone  
+19:15:00. I browsed through social media  
+19:30:00. I watched a funny video  
+19:45:00. I replied to messages  
+20:00:00. I was lying in bed watching smartphone  
+20:15:00. I checked an online forum  
+20:30:00. I read an article online  
+20:45:00. I organized my phone apps  
+21:00:00. I took a shower  
+21:15:00. I applied my skincare routine  
+21:30:00. I put on comfortable nightwear  
+21:45:00. I dried my hair with a towel  
+22:00:00. I've call to my friend but she did not respond  
+22:15:00. I left a voicemail  
+22:30:00. I tidied up my room a bit  
+22:45:00. I arranged my pillows  
+23:00:00. I was trying to sleep but I was not able to fall into sleep due to back pain  
+23:15:00. I adjusted my sleeping position  
+23:30:00. I applied a warm compress to my back  
+23:45:00. I tried to relax my mind with meditation  
